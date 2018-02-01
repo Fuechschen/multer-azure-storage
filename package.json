@@ -1,5 +1,5 @@
 {
-  "name": "multer-azure-storage",
+  "name": "@fuechschen/multer-azure-storage",
   "description": "Azure storage for multer",
   "version": "0.1.3",
   "contributors": [
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MantaCodeDevs/multer-azure-storage.git"
+    "url": "https://github.com/Fuechschen/multer-azure-storage.git"
   },
   "keywords": [
     "multer",
